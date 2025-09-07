@@ -6,6 +6,6 @@ Input Length
 Print "Input Width = "
 Input Width
 Area = Length + width 
-Print "Area of Regtangle = "
+Print "Area of Rectangle = "
 Print Area
 End
